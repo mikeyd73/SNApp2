@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>false</default>
+        <grant_type>client_credentials</grant_type>
+        <jwt_provider/>
+        <name>WorkspaceOneUEM OAuth Profile</name>
+        <oauth_entity display_value="WorkspaceOneUEM OAuth  Provider">066ef7565300201091b8ddeeff7b129e</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-26 21:46:14</sys_created_on>
+        <sys_id>b920042a5300201091b8ddeeff7b1268</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>WorkspaceOneUEM OAuth Profile</sys_name>
+        <sys_package display_value="Service Graph Connector for VMware Workspace ONE UEM" source="sn_vmwoneuem_integ">9742b7524240201085d854cffa52f94e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</sys_scope>
+        <sys_update_name>oauth_entity_profile_b920042a5300201091b8ddeeff7b1268</sys_update_name>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2022-12-05 16:03:29</sys_updated_on>
+    </oauth_entity_profile>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</claim_owner_scope>
+        <claim_timestamp>18872968dbf0000001</claim_timestamp>
+        <metadata_update_name>oauth_entity_profile_b920042a5300201091b8ddeeff7b1268</metadata_update_name>
+        <previous_claim_app_version>1.6.0</previous_claim_app_version>
+        <previous_claim_name>Service Graph Connector for VMware Workspace ONE UEM</previous_claim_name>
+        <previous_claim_scope>9742b7524240201085d854cffa52f94e</previous_claim_scope>
+        <sys_created_by>adminmiked</sys_created_by>
+        <sys_created_on>2023-05-31 16:14:09</sys_created_on>
+        <sys_id>92bd63cf1b8be514fa95ed36604bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2023-05-31 16:14:09</sys_updated_on>
+    </sys_claim>
+</record_update>

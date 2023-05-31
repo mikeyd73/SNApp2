@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>false</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>&lt;Client ID&gt;</client_id>
+        <client_secret>RgkGEOJgB8534ecCSjW/RA==</client_secret>
+        <client_uuid>426ef7565300201091b8ddeeff7b129e</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>WorkspaceOneUEM OAuth  Provider</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-26 21:46:14</sys_created_on>
+        <sys_id>066ef7565300201091b8ddeeff7b129e</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>WorkspaceOneUEM OAuth  Provider</sys_name>
+        <sys_package display_value="Service Graph Connector for VMware Workspace ONE UEM" source="sn_vmwoneuem_integ">9742b7524240201085d854cffa52f94e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</sys_scope>
+        <sys_update_name>oauth_entity_066ef7565300201091b8ddeeff7b129e</sys_update_name>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2022-12-05 16:03:15</sys_updated_on>
+        <token_url>https://na.uemauth.vmwservices.com/connect/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</claim_owner_scope>
+        <claim_timestamp>18872968da80000001</claim_timestamp>
+        <metadata_update_name>oauth_entity_066ef7565300201091b8ddeeff7b129e</metadata_update_name>
+        <previous_claim_app_version>1.6.0</previous_claim_app_version>
+        <previous_claim_name>Service Graph Connector for VMware Workspace ONE UEM</previous_claim_name>
+        <previous_claim_scope>9742b7524240201085d854cffa52f94e</previous_claim_scope>
+        <sys_created_by>adminmiked</sys_created_by>
+        <sys_created_on>2023-05-31 16:14:09</sys_created_on>
+        <sys_id>d6bd63cf1b8be514fa95ed36604bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2023-05-31 16:14:09</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>adminmiked</sys_created_by>
+        <sys_created_on>2023-05-31 16:14:08</sys_created_on>
+        <sys_id>86bd63cf1b8be514fa95ed36604bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2023-05-31 16:14:08</sys_updated_on>
+        <vendor_app display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</vendor_app>
+        <vendor_app_version>1.6.0</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-tokyo-07-08-2022__patch7a-03-27-2023_04-04-2023_1511.zip</war_version>
+    </sys_app_customization>
+</record_update>

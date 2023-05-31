@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template display_value="SG-VMware Workspace ONE UEM Basic Auth">9d64ba9e539d3010f306ddeeff7b12d9</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>sn_vmwoneuem_integ.WorkspaceOneUEM_ConnAlias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>WorkspaceOneUEM ConnAlias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-26 22:26:57</sys_created_on>
+        <sys_id>4f49c8225340201091b8ddeeff7b121f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_vmwoneuem_integ.WorkspaceOneUEM_ConnAlias</sys_name>
+        <sys_package display_value="Service Graph Connector for VMware Workspace ONE UEM" source="sn_vmwoneuem_integ">9742b7524240201085d854cffa52f94e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</sys_scope>
+        <sys_update_name>sys_alias_4f49c8225340201091b8ddeeff7b121f</sys_update_name>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2022-12-05 15:53:52</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Graph Connector for VMware Workspace ONE UEM">9742b7524240201085d854cffa52f94e</claim_owner_scope>
+        <claim_timestamp>18872968dcc0000001</claim_timestamp>
+        <metadata_update_name>sys_alias_4f49c8225340201091b8ddeeff7b121f</metadata_update_name>
+        <previous_claim_app_version>1.6.0</previous_claim_app_version>
+        <previous_claim_name>Service Graph Connector for VMware Workspace ONE UEM</previous_claim_name>
+        <previous_claim_scope>9742b7524240201085d854cffa52f94e</previous_claim_scope>
+        <sys_created_by>adminmiked</sys_created_by>
+        <sys_created_on>2023-05-31 16:14:09</sys_created_on>
+        <sys_id>1abd63cf1b8be514fa95ed36604bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>adminmiked</sys_updated_by>
+        <sys_updated_on>2023-05-31 16:14:09</sys_updated_on>
+    </sys_claim>
+</record_update>
